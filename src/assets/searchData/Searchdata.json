@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "The Future of Web Development",
+    "description": "Exploring the latest trends in web development and what they mean for developers.",
+    "tags": ["Technology", "Web", "Development"],
+    "author": "John Doe",
+    "path": "/blog/1"
+  },
+  {
+    "id": 2,
+    "title": "Sustainable Living in Urban Areas",
+    "description": "How to adopt eco-friendly practices while living in big cities.",
+    "tags": ["Lifestyle", "Environment", "Urban"],
+    "author": "Jane Smith",
+    "path": "/blog/2"
+  },
+  {
+    "id": 3,
+    "title": "Minimalist Design Principles",
+    "description": "Understanding the core principles of minimalist design and how to apply them.",
+    "tags": ["Design", "Art", "Creativity"],
+    "author": "Alex Johnson",
+    "path": "/blog/3"
+  },
+  {
+    "id": 4,
+    "title": "Healthy Eating on a Budget",
+    "description": "Nutritious meal ideas that won't break your bank account.",
+    "tags": ["Food", "Health", "Budget"],
+    "author": "Sarah Williams",
+    "path": "/blog/4"
+  }
+]

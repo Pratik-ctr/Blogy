@@ -1,34 +1,23 @@
-[
-  {
-    "id": 1,
-    "title": "The Future of Web Development",
-    "description": "Exploring the latest trends in web development and what they mean for developers.",
-    "tags": ["Technology", "Web", "Development"],
-    "author": "John Doe",
-    "path": "/blog/1"
-  },
-  {
-    "id": 2,
-    "title": "Sustainable Living in Urban Areas",
-    "description": "How to adopt eco-friendly practices while living in big cities.",
-    "tags": ["Lifestyle", "Environment", "Urban"],
-    "author": "Jane Smith",
-    "path": "/blog/2"
-  },
-  {
-    "id": 3,
-    "title": "Minimalist Design Principles",
-    "description": "Understanding the core principles of minimalist design and how to apply them.",
-    "tags": ["Design", "Art", "Creativity"],
-    "author": "Alex Johnson",
-    "path": "/blog/3"
-  },
-  {
-    "id": 4,
-    "title": "Healthy Eating on a Budget",
-    "description": "Nutritious meal ideas that won't break your bank account.",
-    "tags": ["Food", "Health", "Budget"],
-    "author": "Sarah Williams",
-    "path": "/blog/4"
-  }
+ [
+  "How to Center an Image Using Display Flex",
+  "How to Create and Style Buttons like Bootstrap",
+  "How to Create an Animated Alert Box",
+  "How to Find the Size of a GitHub Repo",
+  "How to Merge Video and Text in PPT",
+  "How to Merge Picture and Text in PPT",
+  "CSS Shapes Lab Codedamn",
+  "Header Tag Lab Codedamn",
+  "Radio Buttons Lab Codedamn",
+  "Fibonacci Generator Lab Codedamn",
+  "Color Change Lab Codedamn",
+  "Glassy Date,Time & Weather Widget CodePen",
+  "Glassy Music Player CodePen",
+  "Circular Navigation Menu CodePen",
+  "Neumorphism Toggle Switch CodePen",
+  "Glowing Border Button CodePen",
+  "Sticky Search Bar CodePen",
+  "Glowing Gradient Border Cards CodePen",
+  "Hover Fill Card CodePen",
+  "Hover Fill Button CodePen",
+  "Preloader CodePen"
 ]

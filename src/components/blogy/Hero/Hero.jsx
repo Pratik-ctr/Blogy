@@ -4,6 +4,7 @@ import styles from './Hero.module.css';
 function Hero() {
   return (
     <div className={styles.mainhero}>
+    
       <div className={styles.heroContent}>
         <div className={styles.textContent}>
           <div className={styles.artical}>

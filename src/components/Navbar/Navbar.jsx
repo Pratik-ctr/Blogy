@@ -8,14 +8,16 @@ const Navbar = () => {
 
   return (
     <header className={styles.NavbarHeader}>
-      <div className={styles.Navbar}>
+      <div className={styles.navbarwrapper}>
+      <div className={styles.Navbar}> 
         <img src="/logo.svg" alt='logo' className={styles.logo} />
         <ul className={styles.navList}>
           <li><Link to='/' className={styles.link}>Home</Link></li>
-          <li><Link to='/recentpost' className={styles.link}>Recent Post</Link></li>
+          <li className={styles.update}><Link to='/recentpost' className={styles.link}>Recent Post</Link></li>
           <li><Link to='/membership' className={styles.link}>Membership</Link></li>
           <li className={styles.search}> <Link to='/search' className={styles.link}><IoSearch /></Link></li>
         </ul>
+      </div>
       </div>
        {/* <Search isOpen={isSearchOpen} onClose={() => setIsSearchOpen(false)} /> */}
     </header>

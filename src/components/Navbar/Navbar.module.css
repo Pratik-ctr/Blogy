@@ -1,21 +1,24 @@
 * {
   margin: 0;
-  padding: 0;
+  padding: 0px;
   box-sizing: border-box;
 }
 
 .NavbarHeader {
-  padding: 25px 0;
+  padding: 25px ;
   /* position: sticky; */
   top: 0;
   width: 100%;
   z-index: 1000;
   /* box-shadow: 0 2px 8px rgba(0,0,0,0.5); */
 }
-
+.navbarwrapper{
+  margin: 0 60px;
+  background: #f7f4ed;
+}
 .Navbar {
-  max-width: 1200px;
-  margin: 0 auto;
+  max-width: 100%;
+  /* margin: 0 auto; */
   padding: 0 20px;
   display: flex;
   justify-content: space-between;

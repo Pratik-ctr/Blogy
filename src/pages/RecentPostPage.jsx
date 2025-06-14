@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from '../components/Navbar/Navbar'
-import RecentPost from '../components/recentpost/recentpost'
+import RecentPost from '../components/recentpost/Recentpost'
 function RecentPostPage () {
   return (
     <div>

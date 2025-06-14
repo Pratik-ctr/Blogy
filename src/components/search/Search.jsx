@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from 'react';
 // import { IoClose } from "react-icons/io5";
-import styles from './Search.module.css';
+import styles from './search.module.css';
 
 
 const suggestions = [

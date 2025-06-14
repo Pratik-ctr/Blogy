@@ -1,5 +1,5 @@
 import React from 'react'
-import Hero from '../components/blogy/hero/hero'
+import Hero from '../components/blogy/Hero/Hero'
 import Stories from '../components/blogy/cards/Stories/Stories'
 function HomePage(){
   return (

@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import styles from './Navbar.module.css'
 import { IoSearch } from "react-icons/io5";
 import { Link } from 'react-router-dom';
-import Search from '../search/search';
+// import Search from '../search/Search';
 const Navbar = () => {
   const [isSearchOpen, setIsSearchOpen] = useState(false);
 

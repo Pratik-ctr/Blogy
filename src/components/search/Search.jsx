@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from 'react';
 // import { IoClose } from "react-icons/io5";
-import styles from './search.module.css';
+import styles from './Search.module.css';
 
 
 const suggestions = [
@@ -54,10 +54,10 @@ const Search = () => {
   }, []);
 
   return (
-    <div className="spectacledcoder-search-bar" ref={searchRef}>
+    <div className={spectacledcoder-Search-bar} ref={searchRef}>
       <input
         id="searchbarinput"
-        className="spectacledcoder-search-bar-input"
+        className={styles.spectacledcoder-Search-bar-input}
         type="text"
         placeholder="Type something"
         value={query}
@@ -72,7 +72,7 @@ const Search = () => {
       /> */}
 
       {showDropdown && query.trim() !== '' && (
-        <div className="spectacledcoder-dropdown">
+        <div className={styles.spectacledcoder-dropdown}>
           <ul>
             {filteredSuggestions.map((item, index) => (
               <li key={index}>
